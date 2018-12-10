@@ -1,0 +1,5 @@
+<resources>
+    <style name="tagItemNormal" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/selector_border_radius_gray</item>
+    </style>
+</resources>
